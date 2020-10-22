@@ -1,0 +1,14 @@
+{
+  "name": "defi_blocks",
+  "version": "0.0.1",
+  "description": "This is a very basic PoC for a graphical no-code builder that generates solidity smart contract code from a given blockly block.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marius Podwyszynski",
+  "license": "MIT",
+  "dependencies": {
+    "blockly": "^3.20200924.3"
+  }
+}
