@@ -24,7 +24,7 @@ As this is a very quick & dirty implementation the only thing you can do right n
 
 The generated smart contract code can then be found in `generated/defi_blocks.sol`
 
-## Outlook
+## Future
 As an example, this PoC generates solidity code based on a template version of a smart contract from yearn. However, it's not tied to yearn at all. You could generate any smart contract that respects a certain design pattern and can logically be mapped to blockly. Creating a blockly parser or language generator for solidity or maybe even vyper could be the next thing to implement.
 
 It might also be integrated into a web app where users could just click together some new strategies and generate the solidity code on the fly. Maybe this could be even compiled and run against remix or similar tools, there are many options.
