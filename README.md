@@ -11,6 +11,6 @@ Currently it's re-implementing the [DAICompoundBasic strategy from yearn](https:
 **Note:** Most of the code is currently hard-wired so basically it always ouputs the DAICompoundBasic yearn strategy atm :joy:
 
 The tool generates the smart contract code by applying the configured block to a given template file which can be defined.
-The logic is currently very limited, the idea was just if it's doable and how no-code programming of smart contracts could be used to eliminate boilerplate code by taking the term 'money legos' literarily.
+The logic is currently very limited, the idea was just if it's doable and how no-code programming of smart contracts could be used.
 
 I have created this as a fun project for the [ETHonline 2020 hackathon](https://ethglobal.online/#hackathon).
